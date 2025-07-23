@@ -1,0 +1,400 @@
+[
+  {
+    "id": 1,
+    "title": "Senior React Developer",
+    "company": "TechCorp Inc.",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "salary": "$120,000 - $160,000",
+    "description": "We are looking for a Senior React Developer to join our dynamic team. You will be responsible for developing user interface components and implementing them following well-known React.js workflows.",
+    "requirements": [
+      "5+ years of experience with React.js",
+      "Strong proficiency in JavaScript, including DOM manipulation",
+      "Thorough understanding of React.js and its core principles",
+      "Experience with popular React.js workflows (such as Flux or Redux)",
+      "Familiarity with RESTful APIs"
+    ],
+    "tags": ["React", "JavaScript", "Frontend", "Remote"],
+    "postedDate": "2025-01-15",
+    "applicationUrl": "https://techcorp.com/apply/react-dev"
+  },
+  {
+    "id": 2,
+    "title": "Full Stack JavaScript Developer",
+    "company": "StartupXYZ",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "salary": "$90,000 - $130,000",
+    "description": "Join our fast-growing startup as a Full Stack Developer. You'll work on both front-end and back-end development using modern JavaScript technologies.",
+    "requirements": [
+      "3+ years of full-stack development experience",
+      "Proficient in Node.js and Express",
+      "Experience with React or Vue.js",
+      "Knowledge of databases (MongoDB, PostgreSQL)",
+      "Understanding of REST APIs and GraphQL"
+    ],
+    "tags": ["JavaScript", "Node.js", "React", "MongoDB", "Startup"],
+    "postedDate": "2025-01-14",
+    "applicationUrl": "https://startupxyz.com/careers/fullstack"
+  },
+  {
+    "id": 3,
+    "title": "Frontend Engineer",
+    "company": "Design Agency Pro",
+    "location": "Los Angeles, CA",
+    "type": "Contract",
+    "salary": "$80 - $120/hour",
+    "description": "We're seeking a talented Frontend Engineer to create beautiful, responsive web applications. You'll collaborate closely with our design team to bring creative visions to life.",
+    "requirements": [
+      "Strong HTML, CSS, and JavaScript skills",
+      "Experience with modern CSS frameworks (Tailwind, Bootstrap)",
+      "Proficient in React or Angular",
+      "Eye for design and attention to detail",
+      "Experience with responsive design"
+    ],
+    "tags": ["Frontend", "CSS", "React", "Design", "Contract"],
+    "postedDate": "2025-01-13",
+    "applicationUrl": "https://designagencypro.com/jobs/frontend"
+  },
+  {
+    "id": 4,
+    "title": "Backend Developer - Python",
+    "company": "DataTech Solutions",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": "$100,000 - $140,000",
+    "description": "Looking for an experienced Backend Developer to build scalable APIs and data processing systems using Python. You'll work with large datasets and machine learning pipelines.",
+    "requirements": [
+      "4+ years of Python development experience",
+      "Experience with Django or FastAPI",
+      "Knowledge of SQL and NoSQL databases",
+      "Familiarity with cloud platforms (AWS, GCP)",
+      "Understanding of microservices architecture"
+    ],
+    "tags": ["Python", "Backend", "API", "Remote", "Data"],
+    "postedDate": "2025-01-12",
+    "applicationUrl": "https://datatechsolutions.com/careers/backend-python"
+  },
+  {
+    "id": 5,
+    "title": "UI/UX Designer & Frontend Developer",
+    "company": "Creative Studios",
+    "location": "Austin, TX",
+    "type": "Part-time",
+    "salary": "$60,000 - $80,000",
+    "description": "Unique opportunity to wear both designer and developer hats. You'll design user experiences and then implement them using modern frontend technologies.",
+    "requirements": [
+      "Portfolio showcasing UI/UX design work",
+      "Proficient in Figma, Sketch, or Adobe XD",
+      "Strong HTML, CSS, and JavaScript skills",
+      "Experience with React or Vue.js",
+      "Understanding of user-centered design principles"
+    ],
+    "tags": ["UI/UX", "Design", "Frontend", "React", "Creative"],
+    "postedDate": "2025-01-11",
+    "applicationUrl": "https://creativestudios.com/jobs/ui-ux-frontend"
+  },
+  {
+    "id": 6,
+    "title": "DevOps Engineer",
+    "company": "CloudFirst Technologies",
+    "location": "Seattle, WA",
+    "type": "Full-time",
+    "salary": "$110,000 - $150,000",
+    "description": "Join our DevOps team to build and maintain scalable cloud infrastructure. You'll work with containerization, CI/CD pipelines, and monitoring systems.",
+    "requirements": [
+      "3+ years of DevOps experience",
+      "Proficient with Docker and Kubernetes",
+      "Experience with AWS or Azure",
+      "Knowledge of Infrastructure as Code (Terraform)",
+      "Familiarity with monitoring tools (Prometheus, Grafana)"
+    ],
+    "tags": ["DevOps", "AWS", "Docker", "Kubernetes", "Infrastructure"],
+    "postedDate": "2025-01-10",
+    "applicationUrl": "https://cloudfirst.com/careers/devops"
+  },
+  {
+    "id": 7,
+    "title": "Mobile App Developer - React Native",
+    "company": "MobileFirst Inc.",
+    "location": "Miami, FL",
+    "type": "Full-time",
+    "salary": "$95,000 - $130,000",
+    "description": "Develop cross-platform mobile applications using React Native. You'll work on both iOS and Android apps with a focus on performance and user experience.",
+    "requirements": [
+      "2+ years of React Native development",
+      "Experience with iOS and Android development",
+      "Knowledge of mobile design patterns",
+      "Familiarity with app store publishing process",
+      "Understanding of native mobile development concepts"
+    ],
+    "tags": ["React Native", "Mobile", "iOS", "Android", "Cross-platform"],
+    "postedDate": "2025-01-09",
+    "applicationUrl": "https://mobilefirst.com/jobs/react-native"
+  },
+  {
+    "id": 8,
+    "title": "Senior Software Engineer",
+    "company": "Enterprise Solutions LLC",
+    "location": "Chicago, IL",
+    "type": "Full-time",
+    "salary": "$130,000 - $170,000",
+    "description": "Lead software development initiatives for enterprise-level applications. You'll mentor junior developers and architect scalable solutions.",
+    "requirements": [
+      "7+ years of software development experience",
+      "Strong background in Java or C#",
+      "Experience with enterprise architectures",
+      "Leadership and mentoring experience",
+      "Knowledge of microservices and distributed systems"
+    ],
+    "tags": ["Java", "Enterprise", "Leadership", "Architecture", "Senior"],
+    "postedDate": "2025-01-08",
+    "applicationUrl": "https://enterprisesolutions.com/careers/senior-engineer"
+  },
+  {
+    "id": 9,
+    "title": "Vue.js Frontend Developer",
+    "company": "WebTech Solutions",
+    "location": "Portland, OR",
+    "type": "Full-time",
+    "salary": "$85,000 - $115,000",
+    "description": "Join our team to build modern web applications using Vue.js. You'll work on creating responsive, user-friendly interfaces and collaborate with our design and backend teams.",
+    "requirements": [
+      "3+ years of Vue.js experience",
+      "Strong knowledge of JavaScript ES6+",
+      "Experience with Vuex state management",
+      "Familiarity with Vue CLI and build tools",
+      "Understanding of RESTful APIs"
+    ],
+    "tags": ["Vue.js", "JavaScript", "Frontend", "Vuex", "Web"],
+    "postedDate": "2025-01-07",
+    "applicationUrl": "https://webtech.com/jobs/vue-developer"
+  },
+  {
+    "id": 10,
+    "title": "Database Administrator",
+    "company": "DataFlow Inc.",
+    "location": "Dallas, TX",
+    "type": "Full-time",
+    "salary": "$95,000 - $125,000",
+    "description": "Manage and optimize our database systems. You'll ensure high performance, security, and availability of our mission-critical databases.",
+    "requirements": [
+      "5+ years of database administration experience",
+      "Expert knowledge of PostgreSQL and MySQL",
+      "Experience with database performance tuning",
+      "Knowledge of backup and recovery procedures",
+      "Familiarity with cloud databases (AWS RDS, Azure SQL)"
+    ],
+    "tags": ["Database", "PostgreSQL", "MySQL", "DBA", "Cloud"],
+    "postedDate": "2025-01-06",
+    "applicationUrl": "https://dataflow.com/careers/dba"
+  },
+  {
+    "id": 11,
+    "title": "Angular Developer",
+    "company": "Modern Apps LLC",
+    "location": "Boston, MA",
+    "type": "Contract",
+    "salary": "$70 - $95/hour",
+    "description": "Develop enterprise-grade applications using Angular. You'll work on complex business applications with a focus on performance and scalability.",
+    "requirements": [
+      "4+ years of Angular development experience",
+      "Strong TypeScript skills",
+      "Experience with RxJS and NgRx",
+      "Knowledge of Angular Material",
+      "Understanding of component-based architecture"
+    ],
+    "tags": ["Angular", "TypeScript", "RxJS", "NgRx", "Enterprise"],
+    "postedDate": "2025-01-05",
+    "applicationUrl": "https://modernapps.com/jobs/angular-dev"
+  },
+  {
+    "id": 12,
+    "title": "QA Automation Engineer",
+    "company": "QualityFirst Testing",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": "$80,000 - $110,000",
+    "description": "Build and maintain automated testing frameworks. You'll ensure software quality through comprehensive test automation and continuous integration.",
+    "requirements": [
+      "3+ years of test automation experience",
+      "Proficient in Selenium WebDriver",
+      "Experience with JavaScript/Python for testing",
+      "Knowledge of CI/CD pipelines",
+      "Familiarity with testing frameworks (Jest, Cypress)"
+    ],
+    "tags": ["QA", "Automation", "Selenium", "Testing", "CI/CD"],
+    "postedDate": "2025-01-04",
+    "applicationUrl": "https://qualityfirst.com/careers/qa-automation"
+  },
+  {
+    "id": 13,
+    "title": "WordPress Developer",
+    "company": "Content Masters",
+    "location": "Nashville, TN",
+    "type": "Part-time",
+    "salary": "$45,000 - $65,000",
+    "description": "Create custom WordPress themes and plugins. You'll work with clients to deliver beautiful, functional websites and manage content management systems.",
+    "requirements": [
+      "2+ years of WordPress development experience",
+      "Strong PHP and MySQL skills",
+      "Experience with custom theme development",
+      "Knowledge of WordPress hooks and filters",
+      "Familiarity with page builders (Elementor, Gutenberg)"
+    ],
+    "tags": ["WordPress", "PHP", "MySQL", "CMS", "Themes"],
+    "postedDate": "2025-01-03",
+    "applicationUrl": "https://contentmasters.com/jobs/wordpress-dev"
+  },
+  {
+    "id": 14,
+    "title": "Data Scientist",
+    "company": "Analytics Pro",
+    "location": "San Diego, CA",
+    "type": "Full-time",
+    "salary": "$110,000 - $145,000",
+    "description": "Analyze large datasets to extract business insights. You'll build machine learning models and create data visualizations to support business decisions.",
+    "requirements": [
+      "3+ years of data science experience",
+      "Proficient in Python and R",
+      "Experience with pandas, scikit-learn, TensorFlow",
+      "Strong statistical analysis skills",
+      "Knowledge of data visualization tools (Tableau, Power BI)"
+    ],
+    "tags": [
+      "Data Science",
+      "Python",
+      "Machine Learning",
+      "Analytics",
+      "Statistics"
+    ],
+    "postedDate": "2025-01-02",
+    "applicationUrl": "https://analyticspro.com/careers/data-scientist"
+  },
+  {
+    "id": 15,
+    "title": "Cybersecurity Specialist",
+    "company": "SecureNet Technologies",
+    "location": "Washington, DC",
+    "type": "Full-time",
+    "salary": "$105,000 - $140,000",
+    "description": "Protect our organization from cyber threats. You'll implement security measures, conduct risk assessments, and respond to security incidents.",
+    "requirements": [
+      "4+ years of cybersecurity experience",
+      "Knowledge of security frameworks (NIST, ISO 27001)",
+      "Experience with penetration testing",
+      "Understanding of network security protocols",
+      "Relevant certifications (CISSP, CEH, CompTIA Security+)"
+    ],
+    "tags": [
+      "Cybersecurity",
+      "Security",
+      "Penetration Testing",
+      "CISSP",
+      "Network"
+    ],
+    "postedDate": "2025-01-01",
+    "applicationUrl": "https://securenet.com/jobs/cybersecurity-specialist"
+  },
+  {
+    "id": 16,
+    "title": "Shopify Developer",
+    "company": "E-commerce Solutions",
+    "location": "Remote",
+    "type": "Contract",
+    "salary": "$55 - $80/hour",
+    "description": "Build and customize Shopify stores for clients. You'll create custom themes, develop apps, and optimize e-commerce performance.",
+    "requirements": [
+      "2+ years of Shopify development experience",
+      "Strong knowledge of Liquid templating",
+      "Experience with Shopify APIs",
+      "Understanding of e-commerce best practices",
+      "Knowledge of JavaScript and CSS"
+    ],
+    "tags": ["Shopify", "E-commerce", "Liquid", "JavaScript", "API"],
+    "postedDate": "2024-12-30",
+    "applicationUrl": "https://ecommercesolutions.com/jobs/shopify-dev"
+  },
+  {
+    "id": 17,
+    "title": "Game Developer - Unity",
+    "company": "Pixel Studios",
+    "location": "Los Angeles, CA",
+    "type": "Full-time",
+    "salary": "$90,000 - $125,000",
+    "description": "Create engaging mobile and PC games using Unity. You'll work on game mechanics, physics, and user interface design for our upcoming titles.",
+    "requirements": [
+      "3+ years of Unity development experience",
+      "Strong C# programming skills",
+      "Experience with game physics and animation",
+      "Knowledge of mobile game optimization",
+      "Understanding of game design principles"
+    ],
+    "tags": ["Unity", "Game Development", "C#", "Mobile", "Animation"],
+    "postedDate": "2024-12-29",
+    "applicationUrl": "https://pixelstudios.com/careers/unity-developer"
+  },
+  {
+    "id": 18,
+    "title": "Technical Writer",
+    "company": "DocuTech Corp",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": "$70,000 - $95,000",
+    "description": "Create clear, comprehensive technical documentation for software products. You'll work with developers and product managers to document APIs, user guides, and technical specifications.",
+    "requirements": [
+      "3+ years of technical writing experience",
+      "Strong understanding of software development",
+      "Experience with documentation tools (GitBook, Confluence)",
+      "Excellent written communication skills",
+      "Ability to translate complex technical concepts"
+    ],
+    "tags": [
+      "Technical Writing",
+      "Documentation",
+      "API",
+      "Communication",
+      "Software"
+    ],
+    "postedDate": "2024-12-28",
+    "applicationUrl": "https://docutech.com/jobs/technical-writer"
+  },
+  {
+    "id": 19,
+    "title": "Blockchain Developer",
+    "company": "CryptoTech Innovations",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "salary": "$130,000 - $180,000",
+    "description": "Develop decentralized applications and smart contracts. You'll work on cutting-edge blockchain technology and contribute to the future of decentralized finance.",
+    "requirements": [
+      "2+ years of blockchain development experience",
+      "Strong knowledge of Solidity and Web3",
+      "Experience with Ethereum and other blockchain platforms",
+      "Understanding of smart contract security",
+      "Knowledge of DeFi protocols"
+    ],
+    "tags": ["Blockchain", "Solidity", "Web3", "Ethereum", "DeFi"],
+    "postedDate": "2024-12-27",
+    "applicationUrl": "https://cryptotech.com/careers/blockchain-dev"
+  },
+  {
+    "id": 20,
+    "title": "Product Manager",
+    "company": "InnovateTech",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "salary": "$115,000 - $150,000",
+    "description": "Lead product development from conception to launch. You'll work with cross-functional teams to define product strategy, gather requirements, and ensure successful product delivery.",
+    "requirements": [
+      "5+ years of product management experience",
+      "Strong analytical and problem-solving skills",
+      "Experience with agile development methodologies",
+      "Understanding of user experience design",
+      "Excellent communication and leadership skills"
+    ],
+    "tags": ["Product Management", "Strategy", "Agile", "Leadership", "UX"],
+    "postedDate": "2024-12-26",
+    "applicationUrl": "https://innovatetech.com/jobs/product-manager"
+  }
+]

@@ -1,0 +1,238 @@
+.container {
+  text-align: center;
+  font-size: 2rem;
+  font-family: Roboto, sans-serif;
+}
+
+#value {
+  font-size: 6rem;
+  font-weight: bold;
+}
+
+.btn {
+  background: transparent;
+  padding: 5px 20px;
+  border-radius: 5px;
+  margin: 0.5rem;
+  cursor: pointer;
+}
+
+.btn:hover {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Navbar styles */
+.navbar-appbar {
+  margin-bottom: 24px !important;
+}
+
+.navbar-title {
+  flex-grow: 1 !important;
+}
+
+.navbar-link {
+  color: inherit;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.navbar-user-info {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.navbar-welcome-text {
+  color: inherit;
+}
+
+/* Job Card styles */
+.job-card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.job-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+.job-card-content {
+  flex-grow: 1;
+}
+
+.job-card-title {
+  margin-bottom: 12px;
+}
+
+.job-card-info-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.job-card-info-row-mb-2 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.job-card-info-row Typography,
+.job-card-info-row-mb-2 Typography {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.job-card-icon {
+  font-size: 16px;
+  margin-right: 8px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.job-card-salary {
+  margin-bottom: 16px;
+  color: #1976d2;
+}
+
+.job-card-description {
+  margin-bottom: 16px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.job-card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+/* Job Detail Modal styles */
+.job-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.job-modal-content-section {
+  margin-bottom: 24px;
+}
+
+.job-modal-info-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.job-modal-info-row-mb-2 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.job-modal-icon {
+  font-size: 18px;
+  margin-right: 8px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.job-modal-salary {
+  margin-bottom: 16px;
+  color: #1976d2;
+}
+
+.job-modal-section-title {
+  margin-bottom: 12px;
+  margin-top: 24px;
+}
+
+.job-modal-description {
+  margin-bottom: 24px;
+  line-height: 1.6;
+}
+
+.job-modal-requirements-list {
+  margin: 0 0 24px 0;
+  padding-left: 20px;
+}
+
+.job-modal-requirements-item {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.job-modal-skills-section {
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+.job-modal-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+/* Login Modal styles */
+.login-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.login-modal-error {
+  margin-bottom: 16px;
+}
+
+.login-modal-actions {
+  padding: 24px;
+}
+
+/* Job Search styles */
+.job-search-container {
+  margin-bottom: 24px;
+}
+
+.job-search-clear-icon {
+  cursor: pointer;
+}
+
+/* Jobs Page styles */
+.jobs-page-title {
+  margin-bottom: 16px;
+}
+
+.jobs-page-subtitle {
+  margin-bottom: 24px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.jobs-page-alert {
+  margin-top: 16px;
+}
+
+.jobs-page-count {
+  margin-bottom: 16px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+/* Job Pagination styles */
+.job-pagination-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 32px;
+  gap: 16px;
+}
+
+.job-pagination-container Typography {
+  color: rgba(0, 0, 0, 0.6);
+}
